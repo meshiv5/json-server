@@ -1,29 +1,22 @@
 {
-  "posts": [
+  "cars": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     },
     {
       "id": 2,
-      "title": "added by me",
-      "author": "don"
-    },
-    {
-      "id": 3,
-      "title": "sdsd sd",
-      "author": "don 3"
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
