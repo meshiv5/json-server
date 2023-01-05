@@ -17,6 +17,43 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
+    },
+    {
+      "brand": "Maruti",
+      "type": "Manual",
+      "year": "2023",
+      "kms": "2323",
+      "Description": "hey bro",
+      "Price": "232323",
+      "id": 3
+    },
+    {
+      "brand": "Honda",
+      "type": "AMT",
+      "year": "2018",
+      "kms": "2323",
+      "Description": "Best Car",
+      "Price": "210023",
+      "id": 4
+    },
+    {
+      "brand": "Toyota",
+      "type": "AMT",
+      "year": "2023",
+      "kms": "2323",
+      "Description": "hey bro",
+      "Price": "232323",
+      "id": 5
+    },
+    {
+      "brand": "Toyota",
+      "type": "Manual",
+      "year": "2023",
+      "kms": "123213",
+      "Description": "hey bro",
+      "Price": "232",
+      "id": 6
     }
-  ]
+  ],
+  "wishlisted_cars": []
 }
